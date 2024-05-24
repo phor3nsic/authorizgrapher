@@ -1,0 +1,3 @@
+{"Admin":{"user":"admin@example.com","token":"eyJhbGciOiJ..."}}
+{"Editor":{"user":"editor@example.com","token":"eyJhbGciOiJ..."}}
+{"Normal":{"user":"normal@example.com","token":"eyJhbGciOiJ..."}}
