@@ -78,6 +78,8 @@ With one introspection file and creds.json, make the requests like this:
 python3 authorizgrapher.py --headers "Authorization Bearer %AUTH%, Content-type: application/json" -u https://example.com/graphql -i introspection.json 
 ```
 
+> Note: You need send `%AUTH%` flag on header or cookie to script use the authentication token by creds.json
+
 You got results:
 
 ```bash
