@@ -48,7 +48,7 @@ Examples 💡
 
 ### Help
 ```
-➜  xpl python3 authorizgrapher.py -h
+➜  python3 authorizgrapher.py -h
 usage: authorizgrapher.py [-h] -u URL [-H HEADERS] -i INTROSPECTION_FILE
 
 options:
